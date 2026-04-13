@@ -1,4 +1,4 @@
-# 📅 Day 15 - Notes App
+#  Day 15 - Notes App
 
 ## 🚀 What I Learned
 - Building a complete mini app
